@@ -302,7 +302,7 @@ if __name__ == '__main__':
     daily_fudan.login()
 
 #     daily_fudan.check()
-    daily_fudan.checkin()
+#     daily_fudan.checkin()
     # 再检查一遍
 #     daily_fudan.check()
     daily_fudan.close(1)
